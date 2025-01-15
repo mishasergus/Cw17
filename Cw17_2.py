@@ -10,7 +10,7 @@ class Dino:
         self.replaybtn = replaybtn
         self.dino = dino
         self.counter = 0
-        self.width = 55
+        self.width = 35
         self.grow = 1.0025
 
     def restartgame(self):
