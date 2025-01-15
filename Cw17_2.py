@@ -11,7 +11,7 @@ class Dino:
         self.dino = dino
         self.counter = 0
         self.width = 55
-        self.grow = 1.0024
+        self.grow = 1.0022
 
     def restartgame(self):
         pyautogui.click(self.replaybtn)
